@@ -1,0 +1,10 @@
+#summary Project Moved
+
+= Introduction =
+
+This project has moved code hosting platforms to Launchpad
+
+
+= Details =
+
+New url: http://code.launchpad.net/zombiecms

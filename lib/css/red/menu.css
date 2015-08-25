@@ -1,0 +1,47 @@
+#top #menu
+{
+	position: relative;
+	width: 880px;
+	height: 30px;
+	top: -20px;
+	margin: 0px auto;
+}
+#top #menu ul
+{
+	clear: none;
+	display: block;
+	margin: 0px auto;
+	list-style-type: none;
+	height: 30px;
+	border: 1px solid #a41403;
+	background: url("../../../images/menu_bg.jpg") repeat-x;
+}
+#top #menu ul li
+{
+	display: block;
+	float: left;
+	height: 30px;
+}
+#top #menu ul li a
+{
+	height: 26px;
+	font-size: 12px;
+	padding: 4px 20px 0px 20px;
+	color: #000;
+	font-family: "Trebuchet MS", sans-serif;
+	display: block;
+}
+#top #menu ul li a:hover
+{
+	background: url("../../../images/menu_hover_red.jpg") repeat-x;
+	border-right: 1px solid #a41403;
+	border-left: 1px solid #a41403;
+	padding: 4px 19px 0px 19px;
+}
+#top #menu ul li a img
+{
+	border: 0px;
+	padding-right: 5px;
+	display: inline;
+	vertical-align: middle;
+}

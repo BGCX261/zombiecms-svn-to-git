@@ -1,0 +1,61 @@
+#top
+{
+	position: relative;
+	width: 100%;
+	height: 130px;
+	background-color: #890202;
+	border-bottom: 7px solid #9b2020;
+}
+#main
+{
+	width: 940px;
+	margin: 0px auto;
+	top: 10px;
+	position: relative;
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	overflow: auto;
+	padding-bottom: 10px;
+}
+#login_box
+{
+	margin: 40px auto;
+	width: 487px;
+	height: 280px;
+	background: url("../../../images/login_box.jpg") repeat-x;
+	border: 1px solid #bdbcbd;
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 12px;
+}
+#main #bad_notice, #main #good_notice
+{
+	width: 95%;
+	margin: 10px;
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+}
+#main #bad_notice
+{
+	color: #e79292;
+	background-color: #912a2a;
+	border: 2px solid #d96666;
+}
+#main #good_notice
+{
+	border: 2px solid #5eb779;
+	color: #5eb779;
+	background-color: #236639;
+}
+#quickboard
+{
+	background-color: #0417a5;
+	border-left: 1px solid #5163e4;
+	border-bottom: 1px solid #5163e4;
+	position: absolute;
+	right: 0px;
+	float: right;
+	top: 0px;
+	width: 105px;
+	height: 36px;
+}
